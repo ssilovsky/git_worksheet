@@ -21,3 +21,5 @@ g:::::gg   gg:::::g
   gg:::::::::::::g                                 
     ggg::::::ggg                                   
        gggggg                                      
+
+So far I have learned how git is a way to save versions of a file and upload it to a repository. It is helpful for working in groups! 
